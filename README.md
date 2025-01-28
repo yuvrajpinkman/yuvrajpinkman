@@ -1,6 +1,6 @@
 ###
 <h1 align="center">Hello there 👋🧔, I'm Yuvraj</h1>
-<h3 align="center">A heavily computer influenced student </h3>
+<h3 align="center">College Student majoring cse from INDIA </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajpinkman&color=brightgreen&style=for-the-badge&label=AM+I+POPULAR+?" alt="yuvrajpinkman" /> </p>
 
 - 🌱 I’m currently learning **Java Full Stack**
