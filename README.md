@@ -1,22 +1,21 @@
 ###
 <h1 align="center">Hello there 👋🧔, I'm Yuvraj</h1>
 <h3 align="center">A heavily computer influenced student </h3>
-<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=yuvrajpinkman&color=brightgreen&style=for-the-badge&label=AM+I+POPULAR+?)" alt="yuvrajpinkman" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajpinkman&color=brightgreen&style=for-the-badge&label=AM+I+POPULAR+?" alt="yuvrajpinkman" /> </p>
 
 - 🌱 I’m currently learning **Java Full Stack**
 - 💬 Ask me about **Linux**
-- 📫 How to reach me **yuvrajradiac7@gmail.com**
+- 📫 How to reach me ? **yuvrajradiac7@gmail.com**
 - ⚡ Fun fact **Student at Alliance University**
 ###
 
-<div style="display: flex;justify-content: space-between;">
-    <img style="padding-left: 150px;" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajpinkman&theme=dracula" height="150" alt="yuvrajpinkman">
-  <img style="padding-right: 150px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvrajpinkman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph">
+<div>
+  <img style=align-items: center; src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvrajpinkman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph">
 </div>
 
 ###
 <div>
-    <h3 style="font-family:'Times New Roman' ;font-size: 27px;">Languages and Tools:</h3>
+    <h3 style="font-family:'Times New Roman' ;font-size: 20pxpx;">Languages and Tools:</h3>
     <p style="display: flex;">
         <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -32,7 +31,7 @@
 <div align="left">
     <h3 align="left">Connect with me:</h3>
     <p align="left">
-    <a href = "https://linktr.ee/yuvrajpinkman", target = "blank"><img align="center" src="https://raw.githubusercontent.com/yuvrajpinkman/yuvrajpinkman/refs/heads/main/svg/linktree.svg" alt="yuvraj singh" height="30" width="40"/>
+    <a href = "https://linktr.ee/yuvrajpinkman", target = "blank"><img align="center" src="https://raw.githubusercontent.com/yuvrajpinkman/yuvrajpinkman/refs/heads/main/svg/linktree-logo-icon.svg" alt="yuvraj singh" height="30" width="40"/>
     </a>
     <a href="https://linkedin.com/in/yuvrajsingh523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshul singh chauhan" height="30" width="40" /></a>
     <a href="https://instagram.com/anshulfml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshulfml" height="30" width="40" /></a>
