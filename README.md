@@ -15,7 +15,7 @@
 
 ###
 <div>
-    <h3 style="font-family:'Times New Roman' ;font-size: 20pxpx;">Languages and Tools:</h3>
+    <h3 style="font-family:'Times New Roman';">Languages and Tools:</h3>
     <p style="display: flex;">
         <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -33,9 +33,9 @@
     <p align="left">
     <a href = "https://linktr.ee/yuvrajpinkman", target = "blank"><img align="center" src="https://raw.githubusercontent.com/yuvrajpinkman/yuvrajpinkman/refs/heads/main/svg/linktree-logo-icon.svg" alt="yuvraj singh" height="30" width="40"/>
     </a>
-    <a href="https://linkedin.com/in/yuvrajsingh523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshul singh chauhan" height="30" width="40" /></a>
-    <a href="https://instagram.com/yuvrajpinkman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshulfml" height="30" width="40" /></a>
-    <a href="https://discordapp.com/users/497112760769970177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1470" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/yuvrajsingh523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuvraj singh" height="30" width="40" /></a>
+    <a href="https://instagram.com/yuvrajpinkman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yuvrajpinkman" height="30" width="40" /></a>
+    <a href="https://discordapp.com/users/497112760769970177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="497112760769970177" height="30" width="40" /></a>
     </p>
 </div>
 ###
