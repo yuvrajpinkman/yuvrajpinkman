@@ -10,7 +10,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajpinkman&layout=donut">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajpinkman&layout=donut&theme=dark&show_icons=true">
 </div>
 
 ###
