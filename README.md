@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java Full Stack**
 - 💬 Ask me about **Linux**
-- 📫 How to reach me ? **yuvrajradiac7@gmail.com**
+- 📫 How to reach me ? **[Send me an Email !](mailto:yuvrajradiac7@gmail.com)**
 <!--- ⚡ Fun fact **Student at Alliance University**-->
 ##
 
