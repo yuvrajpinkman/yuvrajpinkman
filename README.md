@@ -1,6 +1,6 @@
 ###
 <h1 align="center">Hello There 👋🧔</h1>
-<h3 align="center">I am Yuvraj, an Average CSE Student from INDIA 🇮🇳</h3>
+<h3 align="center">ich bin Yuvraj</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajpinkman&color=brightgreen&style=for-the-badge&label=Pofile+Views" alt="yuvrajpinkman" /> </p>
 
 - 🌱 I’m currently learning **Java Full Stack**
