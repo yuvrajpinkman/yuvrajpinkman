@@ -1,14 +1,16 @@
 ###
-<h1 align="center">Hello There 👋🧔</h1>
-<h3 align="center">ich bin Yuvraj</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajpinkman&color=brightgreen&style=for-the-badge&label=Pofile+Views" alt="yuvrajpinkman" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=yuvrajpinkman&color=brightgreen&style=for-the-badge&label=Pofile+Views" alt="yuvrajpinkman" /> </p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=TimesNewRoman&size=45&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Hello+There!+I'm+Yuvraj+👋🧔" />
+</h1>
+
 
 - 🌱 I’m currently learning **Java Full Stack**
 - 💬 Ask me about **Linux**
 - 📫 How to reach me ? **[Send me an Email !](mailto:yuvrajradiac7@gmail.com)**
 <!--- ⚡ Fun fact **Student at Alliance University**-->
 ##
-
+<h3>Stats 📊 </h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajpinkman&layout=donut&theme=dark&show_icons=true">
 </div>
@@ -27,6 +29,14 @@
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     </p>
 </div>
+<br>
+<h3 align="center">
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Thank+you+for+visiting!+%F0%9F%91%8D)](https://git.io/typing-svg)
+
+</h3>
+
+
 
 <!--<div align="left">
     <h3 align="left">Connect with me:</h3>
