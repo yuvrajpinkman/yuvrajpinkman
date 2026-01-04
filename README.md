@@ -9,11 +9,21 @@
 - 💬 Ask me about **Linux**
 - 📫 How to reach me ? **[Send me an Email !](mailto:yuvrajradiac7@gmail.com)**
 <!--- ⚡ Fun fact **Student at Alliance University**-->
+
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+
+
 ##
 <h3>Stats 📊 </h3>
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajpinkman&layout=donut&theme=dark&show_icons=true">
-</div>
+</div> -->
+
+![](https://github-readme-stats.vercel.app/api?username=yuvrajpinkman&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=yuvrajpinkman&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajpinkman&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ##
 <!--<div>
@@ -31,6 +41,14 @@
 </div>
 -->
 <br>
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=yuvrajpinkman&icon=0&color=1)](https://visitcount.itsvg.in)
+
 <h3 align="center">
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Thank+you+for+visiting!+%F0%9F%91%8D)](https://git.io/typing-svg)
@@ -49,3 +67,4 @@
     <a href="https://discordapp.com/users/497112760769970177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="497112760769970177" height="30" width="40" /></a>
     </p>
 </div>
+
