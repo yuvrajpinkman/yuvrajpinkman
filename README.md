@@ -42,9 +42,14 @@
 -->
 <br>
 
+---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="center">
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yuvrajpinkman&icon=0&color=1)](https://visitcount.itsvg.in)
