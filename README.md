@@ -17,13 +17,16 @@
 
 ##
 <h3>Stats 📊 </h3>
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajpinkman&layout=donut&theme=dark&show_icons=true">
-</div> -->
+<div align="center">
+  
+  ![Profile Details](https://github-stats-iota-ruddy.vercel.app/api/cards/profile-details?username=yuvrajpinkman&theme=github_dark)
 
-![](https://github-readme-stats.vercel.app/api?username=yuvrajpinkman&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yuvrajpinkman&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajpinkman&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
+  <p align="center">
+    <img src="https://github-stats-iota-ruddy.vercel.app/api/cards/stats?username=yuvrajpinkman&theme=github_dark" alt="GitHub Stats" />
+    <img src="https://github-stats-iota-ruddy.vercel.app/api/cards/repos-per-language?username=yuvrajpinkman&theme=github_dark" alt="Top Languages" />
+  </p>
+</div>
 
 ##
 <!--<div>
