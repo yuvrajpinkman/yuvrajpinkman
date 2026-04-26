@@ -15,20 +15,19 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 
 
-##
-<h3>Stats 📊 </h3>
+## Stats 📊
+
 <div align="center">
-  
-  ![Profile Details](https://github-stats-iota-ruddy.vercel.app/api/cards/profile-details?username=yuvrajpinkman&theme=github_dark)
 
-  
+
   <p align="center">
-    <img src="https://github-stats-iota-ruddy.vercel.app/api/cards/stats?username=yuvrajpinkman&theme=github_dark" alt="GitHub Stats" />
-    <img src="https://github-stats-iota-ruddy.vercel.app/api/cards/repos-per-language?username=yuvrajpinkman&theme=github_dark" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=yuvrajpinkman&theme=dark&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajpinkman&theme=dark&layout=compact" />
   </p>
-</div>
+  
+  ![Profile Details](https://github-readme-activity-graph.vercel.app/graph?username=yuvrajpinkman&theme=github-compact)
 
-##
+</div>
 <!--<div>
     <h3>Languages and Tools:</h3>
     <p style="display: flex;"> 
