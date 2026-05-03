@@ -17,15 +17,10 @@
 
 ## Stats
 
-<div align="center">
+![](https://github-readme-stats.shion.dev/api?username=yuvrajpinkman&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=yuvrajpinkman&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://streak-stats.demolab.com/?user=yuvrajpinkman&theme=github_dark&hide_border=true)
 
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yuvrajpinkman&theme=dark&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajpinkman&theme=dark&layout=donut&hide_title=true" />
-  </p>
-
-</div>
 <!--<div>
     <h3>Languages and Tools:</h3>
     <p style="display: flex;"> 
